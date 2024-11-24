@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Abdur Razzak",
+    "profession": "Actor",
+    "birthYear": 1942,
+    "deathYear": 2017,
+    "notableWorks": ["Jibon Theke Neya", "Boro Bhalo Lok Chhilo", "Rangbaj"],
+    "description": "Known as Nayak Raj, he was one of the most iconic actors in Bangladeshi cinema.",
+    "email": "abdur.razzak@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Suchanda",
+    "profession": "Actress",
+    "birthYear": 1947,
+    "notableWorks": ["Jibon Theke Neya", "Saat Bhai Champa"],
+    "description": "A celebrated actress and director, also the wife of Zahir Raihan, a legendary filmmaker.",
+    "email": "suchanda@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Anwar Hossain",
+    "profession": "Actor",
+    "birthYear": 1931,
+    "deathYear": 2013,
+    "notableWorks": ["Titas Ekti Nadir Naam", "Jibon Theke Neya"],
+    "description": "Referred to as the 'Uncrowned Emperor of Bangladeshi Cinema,' renowned for his intense acting.",
+    "email": "anwar.hossain@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Shabnam",
+    "profession": "Actress",
+    "birthYear": 1942,
+    "notableWorks": ["Harano Din", "Chokher Moni"],
+    "description": "A versatile actress known for her work in both Bangladeshi and Pakistani cinema.",
+    "email": "shabnam@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Kohinoor Akhter Shuchanda",
+    "profession": "Actress",
+    "birthYear": 1945,
+    "notableWorks": ["Agun Niye Khela", "Shutirang"],
+    "description": "An acclaimed actress and sister of actors Bobita and Champa, with a significant impact on Dhallywood.",
+    "email": "kohinoor.shuchanda@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Bulbul Ahmed",
+    "profession": "Actor",
+    "birthYear": 1941,
+    "deathYear": 2010,
+    "notableWorks": ["Shimana Periye", "Devdas", "Golapi Ekhon Train-e"],
+    "description": "A prominent actor remembered for his versatile performances in classic Bangladeshi films.",
+    "email": "bulbul.ahmed@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Bobita",
+    "profession": "Actress",
+    "birthYear": 1953,
+    "notableWorks": ["Ashani Sanket", "Golapi Ekhon Train-e"],
+    "description": "An internationally acclaimed actress, particularly known for her role in Satyajit Ray's 'Ashani Sanket.'",
+    "email": "bobita@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Ferdousi Mazumder",
+    "profession": "Actress",
+    "birthYear": 1943,
+    "notableWorks": ["Ekhoni Somoy", "Rupban"],
+    "description": "Renowned for her work in both films and television dramas, she is a highly respected figure in Bangladeshi entertainment.",
+    "email": "ferdousi.mazumder@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Rahman",
+    "profession": "Actor",
+    "birthYear": 1937,
+    "deathYear": 2005,
+    "notableWorks": ["Abar Bon", "Surya Snan"],
+    "description": "A versatile actor who gained fame for his charming personality and impressive performances.",
+    "email": "rahman@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Anwara",
+    "profession": "Actress",
+    "birthYear": 1948,
+    "notableWorks": ["Jibon Theke Neya", "Rangbaj"],
+    "description": "A celebrated actress in Dhallywood, known for her exceptional acting in both leading and supporting roles.",
+    "email": "anwara@example.com"
+  }
+]
